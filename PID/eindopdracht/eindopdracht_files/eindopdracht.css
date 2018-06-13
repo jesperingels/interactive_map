@@ -1,0 +1,14 @@
+body{
+;
+
+
+
+    background-repeat: no-repeat;
+}
+
+.img1{
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+    flex: 0.914; 
+}
